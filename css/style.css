@@ -13,7 +13,7 @@ h1{
     display: flex;
     margin: 0 auto;
     height: 500px;
-    width: 500px;
+    max-width: 500px;
     border-collapse: collapse;
     align-items: center;
     justify-content: center;
